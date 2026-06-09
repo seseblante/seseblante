@@ -2,7 +2,7 @@
 
 I'm a final-year Computer Science student (Statistical Computing Track) at the University of the Philippines Manila, graduating July 2026. I am interested in machine learning and data science. I'm comfortable at making sense of complex data and translating it into something meaningful for any chosen field.
 
-My work so far has been in healthcare AI: I co-authored a SCOPUS-indexed paper benchmarking ML models for clinical frailty risk prediction, and my ongoing thesis (AFiNET) benchmarks deep learning architectures for atrial fibrillation detection in ambulatory ECG data. Outside of the field of data, I’m also familiar with backend engineering, as most of my involvement in software engineering projects is there.
+My work so far has been in healthcare AI: I co-authored a SCOPUS-indexed paper benchmarking ML models for clinical frailty risk prediction, and my undergraduate thesis (AFiNET) benchmarks deep learning architectures for atrial fibrillation detection in ambulatory ECG data. Outside of the field of data, I’m also familiar with backend engineering, as most of my involvement in software engineering projects is there.
 
 I am more inclined to the problem-solving side of data work such as building pipelines, running experiments, and watching the results come together. I find the most satisfaction not just in making a model work, but in being able to explain why it works and what it means for the problem at hand.
 
