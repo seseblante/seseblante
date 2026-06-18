@@ -19,7 +19,7 @@ When I'm not frying my eyeballs, my passions lie in doing a bit of creative work
 ## Currently
 * Working to enhance my data analysis skills
 * Open to part-time or entry-level opportunities in ML research and data analytics
-* Waiting for my long overdue graduation
+* Waiting to finally graduate
 
 ### Contact me!
 📫 sheiannedeenoseblante@gmail.com 🔗 [LinkedIn](linkedin.com/in/sdseblante)
