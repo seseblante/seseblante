@@ -17,7 +17,7 @@ I am more inclined to the problem-solving side of data work such as building pip
 When I'm not frying my eyeballs, my passions lie in doing a bit of creative work. I play keys for my church's music ministry and as a hobby. I used to crochet more than I do now, but it’s a good skill that I learned that saved my inability to give good gifts to my friends and family. I also lead youth programs as the current youth president for my local church and conference.
 
 ## Currently
-* Enhancing my Data Analysis skills
+* Working to enhance my data analysis skills
 * Open to part-time or entry-level opportunities in ML research and data analytics
 * Waiting for my long overdue graduation
 
